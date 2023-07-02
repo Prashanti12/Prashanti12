@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Prashanti Ivaturi</h1>
 <h3 align="center">A keen learner always looking for opportunities to learn and improve my skills.</h3>
 
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanti12&label=Profile%20views&color=0e75b6&style=flat" alt="prashanti12" /> </p>
 - 🌱 I’m currently learning **DevOps**
@@ -16,7 +16,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="20" />
+  <img src="https://img.shields.io/badge/css3-%231572B6?logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="20" />
+  <img src="https://img.shields.io/badge/c-%2300599C?logo=c&logoColor=white" alt="C logo" title="C" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white" alt="Java logo" title="Java" height="20" />
+ </p>
+ <p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="20" />
+  <img src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="20" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="20" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="20" />
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00?logo=jupyter&logoColor=white" alt="Jupyter logo" title="Jupyter" height="20" />
+
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanti12&show_icons=true&locale=en&layout=compact" alt="prashanti12" /></p>
 
