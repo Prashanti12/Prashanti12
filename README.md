@@ -22,9 +22,11 @@
   <img src="https://img.shields.io/badge/c-%2300599C?logo=c&logoColor=white" alt="C logo" title="C" height="30" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" />
   <img src="https://img.shields.io/badge/java-%23ED8B00?logo=java&logoColor=white" alt="Java logo" title="Java" height="20" />
- </p>
- <p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="20" />
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="20" />
+</p>
+ <p align="left">
+  
   <img src="https://img.shields.io/badge/github-%23121011?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="20" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows logo" title="Windows" height="20" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC?logo=Canva&logoColor=white" alt="Canva logo" title="Canva" height="20" />
